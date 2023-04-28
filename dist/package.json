@@ -9,7 +9,7 @@
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "node server.js",
         "seeds": "node seeds",
-        "heroku-postbuild": "npm run seeds && npm install --only=prod"
+        "deploy": "npm run build && gh-pages -d dist -- repo "
     },
     "keywords": [],
     "author": "",
