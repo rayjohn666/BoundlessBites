@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "description": "",
     "main": "server.js",
-    "homepage": "./",
+    "homepage": "https://rayjohn666.github.io/BoundlessBites/",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "node server.js",
